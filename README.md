@@ -1,2 +1,5 @@
 # hello-world
-Folder for code first tasks and work 
+
+Hi o all
+
+I am learning how to code and I really enjoy it 
